@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am looking for a job in the field of game development with Unity
+I enjoy spending time on the Unity game engine. I usually design game scenes with 3d objects and materials without using ready-made models. I transform my projects into mini game scenes by creating scripts with my C# knowledge. There are also some examples in my LikedIn profile. My goal is to have a position where I can improve myself and take a position for a long time.
 
 
 ## 🌐 Socials:
