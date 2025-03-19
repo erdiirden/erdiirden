@@ -9,7 +9,6 @@ I enjoy spending time on the Unity game engine. I usually design game scenes wit
 # 📊 Most Used Languages:
 ![erdiirden's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erdiirden&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdiirden&langs_count=8)
 
 
 # 💻 Tech Stack:
